@@ -1,0 +1,15 @@
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\bin\Debug\net6.0\AbstractHw.exe
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\bin\Debug\net6.0\AbstractHw.deps.json
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\bin\Debug\net6.0\AbstractHw.runtimeconfig.json
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\bin\Debug\net6.0\AbstractHw.dll
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\bin\Debug\net6.0\AbstractHw.pdb
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\AbstractHw.csproj.AssemblyReference.cache
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\AbstractHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\AbstractHw.AssemblyInfoInputs.cache
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\AbstractHw.AssemblyInfo.cs
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\AbstractHw.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\AbstractHw.dll
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\refint\AbstractHw.dll
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\AbstractHw.pdb
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\AbstractHw.genruntimeconfig.cache
+C:\BettrootCourses\AbstractHomeWork\AbstractHw\obj\Debug\net6.0\ref\AbstractHw.dll

@@ -9,9 +9,9 @@ namespace AbstractHw
         public int Price { get; }
         public Client OrderFrom { get; set; }
         public DateTime OrderDate { get; set; }
-        public Order(Client client, List<Product> products) // add auto price calculation
+        public Order(Client client, List<Product> products) 
         {
-            Id += 1;
+            Id = GenerateId();
             Products = products;
             Price = CalculateOrderPrice();
             OrderFrom = client;
@@ -26,6 +26,12 @@ namespace AbstractHw
                 finalPrice += product.Price;
             }
             return finalPrice;
+        }
+
+        int GenerateId()
+        {
+            Random random = new Random();
+            return random.Next(0, 2147483647);
         }
     }
 }

@@ -12,7 +12,5 @@ namespace AbstractHw.AbstractionLevel
         public List<Product> Products { get; set; }
         public void AddProduct(string name, int price);
         public void RemoveProduct(string name);
-
-
     }
 }
